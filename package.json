@@ -3,5 +3,24 @@
   "version": "0.0.1",
   "description": "OpenFDA's REST API, decentralized",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "keywords": [
+    "openfda",
+    "fda",
+    "ipfs"
+  ],
+  "homepage": "https://github.com/TheoryLabs/DecentFDA#README",
+  "bugs": {
+    "url" : "https://github.com/TheoryLabs/DecentFDA/issues",
+    "email" : "Dane@TheoryLabs.dev"
+  },
+  "author": {
+    "name" : "Branden Dane",
+    "email" : "Dane@TheoryLabs.dev",
+    "url" : "https://TheoryLabs.dev/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheoryLabs/DecentFDA.git"
+  }
 }
