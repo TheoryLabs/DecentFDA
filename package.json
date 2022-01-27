@@ -1,0 +1,7 @@
+{
+  "name": "@theorylabs/decent-fda",
+  "version": "0.0.1",
+  "description": "OpenFDA's REST API, decentralized",
+  "license": "MIT",
+  "private": true
+}
